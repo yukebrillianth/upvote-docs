@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/yukebrillianth/UpVote',
-  docsRepository: 'https://github.com/yukebrillianth/nextjs-docs',
+  docsRepository: 'https://github.com/yukebrillianth/upvote-docs',
   titleSuffix: ' – UpVote',
   logo: (
     <>
