@@ -21,11 +21,11 @@ export default {
       <meta name="keywords" content="Aplikasi Pemilihan Online, Aplikasi Pemilihan, Aplikasi Pemilihan Ketua Osis, UpVote, Aplikasi Voting, Laravel" />
       <meta name="og:description" content="UpVote adalah aplikasi pemilihan online berbasis web, dibagun menggunakan framework Laravel dan bersifat Open Source." />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="twitter:image" content="/app.png" />
       <meta name="twitter:site:domain" content="docs.upvote.morph.my.id" />
       <meta name="twitter:url" content="https://docs.upvote.morph.my.id" />
       <meta name="og:title" content="UpVote: Aplikasi Pemilihan Online" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="og:image" content="/app.png" />
       <meta name="apple-mobile-web-app-title" content="UpVote" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png" />
       <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png" />
