@@ -18,7 +18,7 @@ export default {
       <meta httpEquiv="Content-Language" content="id" />
       <meta name="author" content="Yuke Brilliant">
       <meta name="description" content="UpVote: Aplikasi Pemilihan Online" />
-      <meta name="keywords" content="Aplikasi Pemilihan Online, Aplikasi Pemilihan, Aplikasi Pemilihan Ketua Osis, UpVote, Aplikasi Voting, Laravel">
+      <meta name="keywords" content="Aplikasi Pemilihan Online, Aplikasi Pemilihan, Aplikasi Pemilihan Ketua Osis, UpVote, Aplikasi Voting, Laravel"/>
       <meta name="og:description" content="UpVote: Aplikasi Pemilihan Online" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
@@ -31,7 +31,7 @@ export default {
       <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
       <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"/>
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+      <link rel="icon" type="image/png" sizes="16x16" href=""/>
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
     </>
   ),
