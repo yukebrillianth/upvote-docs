@@ -1,4 +1,31 @@
-## 1. Download Source Code
+## 1. Install PHP dan Ekstensi nya
+
+- PHP Minimal versi 7.4
+- BCMath PHP Extension
+- Ctype PHP Extension
+- JSON PHP Extension
+- Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+
+## 2. Install Composer
+
+### A. Windows Installer
+Download dan jalankan [Composer-Setup.exe](https://getcomposer.org/Composer-Setup.exe) - composer versi terbaru akan terinstall
+
+### B. Command-line installation
+Untuk menginstal Composer dengan cepat di direktori saat ini, jalankan skrip berikut di terminal Anda. Untuk mengotomatiskan penginstalan, gunakan panduan penginstalan Komposer secara terprogram.
+
+```php
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === '756890a4488ce9024fc62c56153228907f1545c228516cbf63f885e036d37e9a59d27d63f46af1d4d07ee0f76181c7d3') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+```
+
+## 3. Download Source Code
 
 `Source Code` ada di [Repository](https://github.com/yukebrillianth/UpVote) anda bisa download secara manual atau cloning dari repository tersebut.
 
@@ -9,3 +36,5 @@
 2. Download file zip
 
 ![](/download-doc.jpg)
+
+3. Ekstrak File Zip ke folder htdocs / www
