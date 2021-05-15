@@ -25,12 +25,12 @@ export default {
       <meta name="og:title" content="UpVote: Aplikasi Pemilihan Online" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="UpVote" />
-      <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
-      <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
-      <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"/>
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png" />
+      <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
   search: true,
