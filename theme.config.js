@@ -16,7 +16,7 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="id" />
-      <meta name="author" content="Yuke Brilliant">
+      <meta name="author" content="Yuke Brilliant"/>
       <meta name="description" content="UpVote: Aplikasi Pemilihan Online" />
       <meta name="keywords" content="Aplikasi Pemilihan Online, Aplikasi Pemilihan, Aplikasi Pemilihan Ketua Osis, UpVote, Aplikasi Voting, Laravel"/>
       <meta name="og:description" content="UpVote: Aplikasi Pemilihan Online" />
